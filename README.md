@@ -6,4 +6,8 @@ A Inteligência Artificial (IA) está transformando o mercado de trabalho global
 O time VITAMETRICS, teve como objetivo focar em soluções inteligentes para otimizar o bem-estar e a produtividade no ambiente de trabalho. Após uma análise detalhada do futuro deste mercado, tivemos um propósito como: analisar rotinas de trabalho, sugerir melhorias e prever sinais de sobrecarga cognitiva usando princípios de automação e inteligência de dados.
 
 
-Apresentação com integração de desenvolvimento - Youtube : https://youtu.be/S29a0nV8q6A
+**Apresentação com integração de desenvolvimento - Youtube :**
+https://youtu.be/5aSVySmbNfc?si=7BrXwgpUNNHjoWd3
+
+**desenvolvimento ML e Redes Neurais:**
+https://youtu.be/S29a0nV8q6A
